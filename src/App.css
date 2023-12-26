@@ -1,7 +1,7 @@
 .App {
   font-size: x-large;
   text-align: center;
-  margin: 50px auto; /* ปรับความห่างจากขอบหน้าต่างเบราว์เซอร์ */
+  margin: 50px auto;
 }
 
 h1 {
@@ -11,10 +11,9 @@ h1 {
 }
 
 input {
-  width: 300px; /* ปรับความกว้างของ Input */
-  margin-top: 20px; /* ปรับระยะห่างของ Input จากหัวข้อ */
+  width: 300px;
+  margin-top: 20px;
 }
-
 ul {
   list-style: none;
   padding: 0;
